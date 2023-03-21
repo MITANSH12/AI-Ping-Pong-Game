@@ -1,0 +1,21 @@
+.heading {
+    width: 100%;
+    text-align: center;
+    
+}
+.heading h3 {
+    display: inline;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+margin-left: 100px;
+}
+.heading button {
+    float: right;
+    border: 1px solid white;
+    transition: opacity 0.2s;
+}
+.heading button:hover {
+    opacity: 0.6;
+}
+.heading button:active {
+    opacity: 0.4;
+}
