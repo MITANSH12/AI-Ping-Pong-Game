@@ -19,3 +19,10 @@ margin-left: 100px;
 .heading button:active {
     opacity: 0.4;
 }
+canvas {
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px black;
+}
+video {
+    margin-top: 200px;
+}
